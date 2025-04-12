@@ -1,7 +1,0 @@
-pymongo
-pymongo[srv]
-dnspython
-pandas
-numpy
-ensure
-pytest
